@@ -1,4 +1,4 @@
-package com.dez.www.hellosqlitetemplate;
+package com.dez.www.hellosqlite;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.dez.www.hellosqlitetemplate", appContext.getPackageName());
+        assertEquals("com.dez.www.hellosqlite", appContext.getPackageName());
     }
 }

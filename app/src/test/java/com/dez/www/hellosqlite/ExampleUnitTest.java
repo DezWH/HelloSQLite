@@ -1,4 +1,4 @@
-package com.dez.www.hellosqlitetemplate;
+package com.dez.www.hellosqlite;
 
 import org.junit.Test;
 
